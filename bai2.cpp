@@ -24,4 +24,5 @@ int main(void){
            printf("%d ", i);
        }
    }
+   printf("\nSo luong so chinh phuong la %d", count);
 }
